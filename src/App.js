@@ -17,10 +17,8 @@ class App extends Component {
 
   componentDidMount(){
 
-    var proxyUrl = 'https://cors-anywhere.herokuapp.com/',
-    targetUrl = 'https://jsonplaceholder.typicode.com/users';
 
-    fetch(proxyUrl + targetUrl)
+    fetch('https://jsonplaceholder.typicode.com/users')
       .then(response => response.json())
       .then((users) => {
         this.setState(
