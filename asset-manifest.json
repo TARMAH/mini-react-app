@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mini-react-app/static/css/main.98fb0fed.chunk.css",
+    "main.js": "/mini-react-app/static/js/main.c276ec64.chunk.js",
+    "main.js.map": "/mini-react-app/static/js/main.c276ec64.chunk.js.map",
+    "runtime-main.js": "/mini-react-app/static/js/runtime-main.a1d38d7c.js",
+    "runtime-main.js.map": "/mini-react-app/static/js/runtime-main.a1d38d7c.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/mini-react-app/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/mini-react-app/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/mini-react-app/index.html",
+    "precache-manifest.e85c189fd9ae4066e830c39417e1d954.js": "/mini-react-app/precache-manifest.e85c189fd9ae4066e830c39417e1d954.js",
+    "service-worker.js": "/mini-react-app/service-worker.js",
+    "static/css/main.98fb0fed.chunk.css.map": "/mini-react-app/static/css/main.98fb0fed.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/mini-react-app/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1d38d7c.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.98fb0fed.chunk.css",
+    "static/js/main.c276ec64.chunk.js"
+  ]
+}
